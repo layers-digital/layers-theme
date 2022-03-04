@@ -2,8 +2,9 @@
     "name": "layers-theme",
     "displayName": "Layers Theme",
     "description": "A theme made by shapers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Layers",
+    "icon": "./icone-verde.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/layers-digital/layers-theme"
