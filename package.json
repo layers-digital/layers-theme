@@ -1,0 +1,21 @@
+{
+    "name": "layers-theme",
+    "displayName": "layers",
+    "description": "A theme made by shapers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Layers Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Layers Theme-color-theme.json"
+            }
+        ]
+    }
+}
