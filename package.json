@@ -2,7 +2,7 @@
     "name": "layers-theme",
     "displayName": "Layers Theme",
     "description": "A theme made by shapers",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "Layers",
     "icon": "icone-verde.png",
     "repository": {
@@ -24,9 +24,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Layers Theme",
+                "label": "Layers Theme Dark",
                 "uiTheme": "vs",
-                "path": "./themes/Layers Theme-color-theme.json"
+                "path": "./themes/Layers Dark-color-theme.json"
+            },
+            {
+                "label": "Layers Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/Layers Light-color-theme.json"
             }
         ]
     }
