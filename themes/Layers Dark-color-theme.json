@@ -21,7 +21,7 @@
 		"list.inactiveSelectionBackground": "#00b8ad55",
 		"list.inactiveFocusBackground": "#00b8ad55",
 		"list.dropBackground":"#C8D0D8",
-    "list.hoverBackground": "#00b8ad",
+    "list.hoverBackground": "#00a69c",
 		"list.activeSelectionIconForeground": "#fff",
 		"list.errorForeground": "#ed6b4f",
 
@@ -173,7 +173,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#C8D0D8"
 			}
 		},
