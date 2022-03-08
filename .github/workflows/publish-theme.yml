@@ -1,6 +1,7 @@
 on:
   push:
     paths:
+      - '.github/workflows/**'
       - './themes/**'
       - 'package.json'
     branches:
