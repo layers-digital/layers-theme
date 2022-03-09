@@ -24,6 +24,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Layers Theme Dark 2",
+                "uiTheme": "vs",
+                "path": "./themes/Layers Dark-color-theme-2.json"
+            },
+            {
                 "label": "Layers Theme Dark",
                 "uiTheme": "vs",
                 "path": "./themes/Layers Dark-color-theme.json"
