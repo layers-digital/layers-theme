@@ -47,6 +47,7 @@
 		"terminalCursor.background": "#E8ECEF",
 		"terminalCursor.foreground": "#00a69c",
 		"terminal.foreground": "#F4F6F8",
+		"terminal.selectionBackground": "#ffca6555",
 
 		"minimap.background": "#405261",
 
