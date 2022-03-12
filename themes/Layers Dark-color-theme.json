@@ -2,6 +2,8 @@
 	"name": "Layers Theme Dark",
 	"type": "dark",
 	"colors": {
+		"debugToolBar.background": "#2d3341",
+
 		"activityBar.background": "#00a69c",
 		"activityBar.activeBackground": "#00b8ad",
 		"activityBar.foreground": "#ffffff",
@@ -119,13 +121,6 @@
 			}
 		},
 		{
-			"name": "Operators",
-			"scope": "keyword.operator",
-			"settings": {
-				"foreground": "#777777"
-			}
-		},
-		{
 			"name": "Keywords",
 			"scope": [
 				"keyword",
@@ -184,7 +179,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#e86161"
 			}
 		},
@@ -324,6 +319,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#15A4CC"
 			}
 		},
