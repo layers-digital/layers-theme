@@ -2,6 +2,8 @@
 	"name": "Layers Theme Dark",
 	"type": "dark",
 	"colors": {
+		"debugToolBar.background": "#2d3341",
+
 		"activityBar.background": "#00a69c",
 		"activityBar.activeBackground": "#00b8ad",
 		"activityBar.foreground": "#ffffff",
@@ -35,7 +37,7 @@
 		"editor.selectionBackground": "#2f8af533",
 		"editor.selectionForeground": "#2f8af5",
 		"editor.wordHighlightBackground": "#2f8af577",
-		"editor.findMatchBackground": "#ffc965",
+		"editor.findMatchBackground": "#ffca6555",
 		"editor.findMatchHighlightBackground": "#ffca6555",
 		"editorLineNumber.activeForeground": "#00a69c",
 		"editorLineNumber.foreground": "#108EB1",
@@ -47,6 +49,7 @@
 		"terminalCursor.background": "#E8ECEF",
 		"terminalCursor.foreground": "#00a69c",
 		"terminal.foreground": "#F4F6F8",
+		"terminal.selectionBackground": "#ffca6555",
 
 		"minimap.background": "#405261",
 
@@ -118,13 +121,6 @@
 			}
 		},
 		{
-			"name": "Operators",
-			"scope": "keyword.operator",
-			"settings": {
-				"foreground": "#777777"
-			}
-		},
-		{
 			"name": "Keywords",
 			"scope": [
 				"keyword",
@@ -183,7 +179,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#e86161"
 			}
 		},
@@ -323,6 +319,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#15A4CC"
 			}
 		},
