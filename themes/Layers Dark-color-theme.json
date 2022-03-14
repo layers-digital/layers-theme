@@ -10,7 +10,7 @@
 		"activityBar.inactiveForeground": "#ffffff",
     "activityBarBadge.background": "#2f8af5",
 		"activityBarBadge.foreground": "#fff",
-		
+
 		"badge.background": "#2f8af5",
 		"badge.foreground": "#fff",
 
@@ -350,12 +350,21 @@
 		{
 			"name": "HTML: Tag Names",
 			"scope": [
-        "entity.name.tag",
-        ""
-      ],
+				"entity.name.tag",
+			],
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#15A4CC"
+			}
+		},
+		{
+			"name": "HTML: Tag Content",
+			"scope": [
+				"text.html"
+			],
+			"settings": {
+				"foreground": "#FFF",
+				"fontStyle": "",
 			}
 		},
 		{
