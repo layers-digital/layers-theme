@@ -605,6 +605,14 @@
 				"foreground": "#ffd771",
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"name": "Rust: source",
+			"scope": "source.rust",
+			"settings": {
+				"foreground": "#ffd771",
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
