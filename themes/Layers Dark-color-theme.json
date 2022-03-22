@@ -218,14 +218,6 @@
 			}
 		},
 		{
-			"name": "Link: go",
-			"scope": [""],
-			"settings": {
-				"foreground": "#FF0000",
-				"fontStyle": "bold"
-			}
-		},
-		{
 			"name": "Exceptions",
 			"scope": "entity.name.exception",
 			"settings": {
@@ -296,7 +288,7 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#f00"
+				"foreground": "#ff0"
 			}
 		},
 		{
@@ -363,7 +355,7 @@
 				"text.html"
 			],
 			"settings": {
-				"foreground": "#FFF",
+				"foreground": "#C8D0D8",
 				"fontStyle": "",
 			}
 		},
